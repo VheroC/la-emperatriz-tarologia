@@ -1,0 +1,73 @@
+Nuevo/Recurrente,País,Usuarios activos,Sesiones con interacción,Duración media de la sesión
+new,Spain,368,248,171.1886241961853
+returning,United States,22,77,471.88297247747744
+new,United States,326,84,61.878207046012264
+new,Argentina,217,124,105.05873063133642
+new,Mexico,186,89,67.92524347567567
+new,Chile,41,26,81.30392060975609
+new,Uruguay,39,24,170.62209184615384
+new,Colombia,33,21,154.30434618181818
+returning,Argentina,21,18,167.31845247272724
+returning,Spain,23,21,256.60996116129036
+new,Venezuela,27,19,145.7764295925926
+new,Ecuador,10,8,192.84097549999998
+new,Peru,17,12,124.132048
+returning,Germany,1,3,1428.1473328
+returning,Mexico,16,7,137.5805863
+new,Italy,6,5,135.5965645
+new,Puerto Rico,8,7,157.987311875
+new,Germany,15,7,82.11081026666668
+(not set),United States,0,0,0.3254469230769231
+new,France,9,7,95.694315
+(not set),Spain,0,0,0
+new,Canada,11,1,64.68798590909091
+new,China,11,3,5.222222454545454
+(not set),Colombia,0,0,0.41498193333333333
+new,Poland,12,0,0
+(not set),Argentina,0,1,16.68787776923077
+new,Saudi Arabia,5,4,41.186734799999996
+returning,Colombia,4,5,283.492564125
+new,(not set),6,3,9.2818555
+new,Switzerland,5,4,31.0662964
+(not set),Mexico,0,1,6.0937445
+returning,Uruguay,4,2,28.900440000000003
+returning,Peru,1,1,121.85197275
+returning,Italy,1,2,213.676881
+new,Costa Rica,5,2,91.7468152
+new,Dominican Republic,3,2,136.68304933333334
+new,Netherlands,6,3,56.785477500000006
+new,United Kingdom,6,2,17.6472275
+new,Portugal,5,2,18.0331956
+new,Sweden,5,2,11.7777904
+new,Paraguay,4,3,79.6588745
+new,Ireland,4,0,0
+new,Panama,4,1,3.061218
+returning,Venezuela,1,1,1353.840535
+new,India,3,1,90.34232633333333
+returning,Switzerland,1,1,30.660075
+(not set),Uruguay,0,0,0
+returning,Chile,2,1,9.4258045
+new,Israel,2,1,8.8478105
+new,Luxembourg,2,0,0
+new,Singapore,2,1,5.6161875
+new,South Korea,2,0,0
+new,Taiwan,2,0,0
+new,Australia,2,1,6.193721
+new,Estonia,1,1,11.420403
+new,Brazil,1,1,117.601137
+new,Bulgaria,1,1,19.643769
+new,Cuba,1,0,0
+new,Denmark,1,1,20.240748
+new,Bolivia,1,0,0
+new,Finland,1,0,7.543515
+new,Indonesia,1,1,54.072563
+new,Norway,1,1,12.560661
+new,Romania,1,0,0
+new,Thailand,1,0,0
+(not set),Canada,0,0,0
+(not set),Chile,0,0,0
+(not set),Portugal,0,0,0
+(not set),Switzerland,0,0,0
+(not set),Venezuela,0,0,0
+returning,Ecuador,1,0,0
+returning,France,1,0,0
