@@ -4,7 +4,7 @@ import os
 
 # ── CONEXIÓN A POSTGRESQL ─────────────────────────────────────
 
-engine = create_engine("postgresql+psycopg2://postgres:"tu_password_aqui"@localhost:5432/emperatriz_tarologia")
+engine = create_engine("postgresql+psycopg2://postgres:"tu_password_aqui"@localhost:xxxx/emperatriz_tarologia")
 
 # ── ARCHIVOS A CARGAR ─────────────────────────────────────────
 archivos = {
