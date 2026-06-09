@@ -3,8 +3,8 @@ from sqlalchemy import create_engine
 import os
 
 # ── CONEXIÓN A POSTGRESQL ─────────────────────────────────────
-# Cambiá TU_CONTRASEÑA por la contraseña que pusiste al instalar PostgreSQL
-engine = create_engine("postgresql+psycopg2://postgres:md1pppdng@localhost:5432/emperatriz_tarologia")
+
+engine = create_engine("postgresql+psycopg2://postgres:"tu_password_aqui"@localhost:5432/emperatriz_tarologia")
 
 # ── ARCHIVOS A CARGAR ─────────────────────────────────────────
 archivos = {
